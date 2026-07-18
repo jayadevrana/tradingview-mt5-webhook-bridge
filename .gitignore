@@ -1,0 +1,42 @@
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+out/
+.next/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Runtime artifacts
+logs/
+data/
+*.log
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
+*.pid
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+node_modules/

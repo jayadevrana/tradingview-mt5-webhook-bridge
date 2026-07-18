@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "event_id": "evt-20260309-0002",
+  "sent_at": "2026-03-09T10:31:00Z",
+  "source": "tradingview",
+  "command": "close_all_positions",
+  "account_scope": "primary",
+  "secret": "replace-with-your-shared-secret",
+  "options": {}
+}

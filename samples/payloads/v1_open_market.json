@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "event_id": "evt-20260309-0001",
+  "sent_at": "2026-03-09T10:30:00Z",
+  "source": "tradingview",
+  "command": "open_market",
+  "account_scope": "primary",
+  "symbol": "XAUUSD",
+  "secret": "replace-with-your-shared-secret",
+  "options": {
+    "side": "buy",
+    "quantity_lots": 0.01,
+    "tp": 10,
+    "sl": 10,
+    "strategy": "tv-breakout",
+    "magic": 123456
+  }
+}
+
